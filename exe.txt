@@ -2,3 +2,6 @@ Gitの練習開始
 ワークフローを学びます
 git add
 git commit
+
+git pushなど複数を行ったよ
+git status
