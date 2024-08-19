@@ -5,3 +5,7 @@ git commit
 
 git push‚È‚Ç•¡”‚ğs‚Á‚½‚æ
 git status
+
+UTF-8‚É•ÏX‚µ‚½
+git config i18n.commitEncoding UTF-8
+
